@@ -1,0 +1,2 @@
+# dogukancode
+my first repository
